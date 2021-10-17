@@ -186,6 +186,10 @@ def __gdpr__(user_id):
     end_afk(user_id)
 
 
+def __stats__():
+    return f"• {len(REDIS.keys())} total keys in redis database."
+
+
 AFK_HANDLER = DisableAbleCommandHandler("afk", afk, run_async=True)
 AFK_REGEX_HANDLER = MessageHandler(Filters.regex("(?i)brb"), afk)
 NO_AFK_HANDLER = MessageHandler(Filters.all & Filters.chat_type.groups, no_longer_afk, run_async=True)
