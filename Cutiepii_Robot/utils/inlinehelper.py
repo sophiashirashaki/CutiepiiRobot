@@ -102,14 +102,14 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[Cutiepii 💜](https://github.com/Awesome-RJ/CutiepiiRobot):**
+**[Kanata 💜](https://t.me/projectsupdates):**
 **MainBot:** `{bot_state}`
 **UserBot:** `Alive`
 **Python:** `3.9`
 **Pyrogram:** `{pyrover}`
 **MongoDB:** `{mongover}`
 **Platform:** `{sys.platform}`
-**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [UBOT](t.me/Awesome_Cutiepii)
+**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [UBOT](t.me/erosei_1)
 """
     answers.append(
         InlineQueryResultArticle(
