@@ -144,7 +144,7 @@ HELP_MSG = "Click the button below to get help manu in your pm."
 START_MSG = "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>"
     
 PM_START_TEXT = """
-────「 [Kanata カナタ](https://telegra.ph/file/2909a312d9438798d237a.png) 」────
+────「 [Kanata カナタ](https://telegra.ph/file/62a8fd1f95fa5a8d6c3f6.jpg) 」────
 *Hola! {},*
 *I am an V-tuber themed advance group management bot with a lot of Sexy Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
