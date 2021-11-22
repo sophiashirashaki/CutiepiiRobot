@@ -197,8 +197,9 @@
       "REDIS_URI"
          "description": "Redis URI"
          "required": true,
-         "value": "redis-19313.c275.us-east-1-4.ec2.cloud.redislabs.com:19313"
+         "value": "redis-19313.c275.us-east-1-4.ec2.cloud.redislabs.com:19313",
       }
-    ]
-  }
+    
+   }
+ }
 
