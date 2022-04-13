@@ -98,9 +98,9 @@ from telethon import Button, events
 async def awake(event):
   CUTIEPII = event.sender.first_name
   CUTIEPII = "**♡ I,m Kanata カナタ** \n\n"
-  CUTIEPII += "**♡ I'm Working With Anko Loli**\n\n"
+  CUTIEPII += "**♡ I'm Working With Ako**\n\n"
   CUTIEPII += "**♡ Kanata: LATEST Version**\n\n"
-  CUTIEPII += "**♡ My Creator:** [Anko Loli](t.me/erosei_1)\n\n"
+  CUTIEPII += "**♡ My Creator:** [Ako](t.me/erosei_1)\n\n"
   CUTIEPII += "**♡ python-Telegram-Bot: 13.7**\n\n"
   CUTIEPII_BUTTON = [
       [
@@ -167,7 +167,7 @@ buttons = [
                     ],
                    [
                        InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
-                       InlineKeyboardButton(text="❔ Chit Chat", url="https://t.me/Alvin_Imag_Editor_Group"),
+                       InlineKeyboardButton(text="❔ Chit Chat", url="https://t.me/AkoUpdate"),
                        InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
                      ],
                     [                  
